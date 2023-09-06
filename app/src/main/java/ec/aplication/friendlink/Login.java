@@ -114,7 +114,7 @@ public class Login extends AppCompatActivity {
     protected void onStart() {
         super.onStart();
         if (FirebaseAuth.getInstance().getCurrentUser()!=null){
-            startActivity(new Intent(getApplicationContext(),AdminActivity.class));
+            startActivity(new Intent(getApplicationContext(),IndexActivity.class));
             finish();
         }
     }
