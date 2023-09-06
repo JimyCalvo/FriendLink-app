@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "334384118817",
+    "project_id": "friendlink-ec",
+    "storage_bucket": "friendlink-ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334384118817:android:5b23bf4f2cdc260794b760",
+        "android_client_info": {
+          "package_name": "ec.aplication.friendlink"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "334384118817-s9d6t0qij8ohrpc241ld99oami2pd8lj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCz2Z5tu3cvOtZKExQX_Uf7PTPWQzbTkno"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "334384118817-j4ua0opg0k7gl48akpps0b39qv88e2u9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

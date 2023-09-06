@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">FriendLink</string>
+    <string name="home">Home</string>
+    <string name="name">Nombre Completo</string>
+    <string name="phone">Teléfono</string>
+    <string name="admin">Administrador</string>
+    <string name="about">Acerca</string>
+    <string name="logout">Cerrar Sesión</string>
+    <string name="login">Iniciar Sesión</string>
+    <string name="register">Registrar</string>
+    <string name="update">Actualizar</string>
+    <string name="delete">Eliminar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="list">Lista de Registro</string>
+    <string name="email">Correo electrónico</string>
+    <string name="password">Contraseña</string>
+    <string name="open_nav">Abrir Menú de Navegación</string>
+    <string name="close_nav">Cerrar Menú de Navegación</string>
+    <string name="register2">¿No tienes una cuenta? Regístrate</string>
+
+
+    <string-array name="roles">
+        <item>Usuario</item>
+        <item>Administrador</item>
+    </string-array>
+</resources>
